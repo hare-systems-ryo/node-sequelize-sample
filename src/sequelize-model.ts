@@ -10,8 +10,8 @@ export interface Models {
 }
 
 export interface ModelNames {
-  Table1: 'Table1;';
-  Table2: 'Table2;';
+  Table1: 'Table1';
+  Table2: 'Table2';
 }
 
 export namespace Models {
